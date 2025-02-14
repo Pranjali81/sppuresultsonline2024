@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Result Display System</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .sidebar {
+            width: 250px;
+            background: #2c3e50;
+            height: 100vh;
+            position: fixed;
+            padding: 20px;
+            color: white;
+        }
+        .content {
+            margin-left: 270px;
+            padding: 20px;
+        }
+        .modal-box {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            width: 60%;
+            margin: auto;
+            margin-top: 50px;
+        }
+        .btn-custom {
+            border: 1px solid #007bff;
+            color: #007bff;
+            padding: 10px 20px;
+            background: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .btn-custom:hover {
+            background: #007bff;
+            color: white;
+        }
+        .result-box {
+            display: none;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h3>Dashboard</h3>
+        <p>Home</p>
+    </div>
+    <div class="content">
+        <h2>Online Result Display System</h2>
+        <div class="modal-box">
+            <h4>F.E.(2019 CREDIT PAT.) OCT 2024</h4>
+            <div class="mb-3">
+                <label>Enter Seat No</label>
+                <input type="text" id="seatNo" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label>Enter Mother Name</label>
+                <input type="text" id="motherName" class="form-control">
+            </div>
+            <button class="btn-custom" onclick="showResult()">Check Result</button>
+        </div>
+        <div id="resultBox" class="result-box">
+            <h4>Result Details</h4>
+            <p><strong>Seat No:</strong> F1910500238</p>
+            <p><strong>Mother's Name:</strong> SUNITA</p>
+            <p><strong>Course:</strong> F.E.(2019 CREDIT PAT.)</p>
+            <p><strong>Exam:</strong> OCT 2024</p>
+            <p><strong>Marks:</strong> 85%</p>
+            <p><strong>Status:</strong> Passed</p>
+        </div>
+    </div>
+
+    <script>
+        function showResult() {
+            let seatNo = document.getElementById("seatNo").value;
+            let motherName = document.getElementById("motherName").value;
+            
+            if (seatNo === "F1910500238" && motherName.toUpperCase() === "SUNITA") {
+                document.getElementById("resultBox").style.display = "block";
+            } else {
+                alert("Invalid details. Try again.");
+            }
+        }
+    </script>
+</body>
+</html>

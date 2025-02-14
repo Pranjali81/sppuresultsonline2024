@@ -1,0 +1,223 @@
+{
+  "F1910500238": {
+    "Student_Name": "NAIKWADI PRANJALI RAJENDRA",
+    "Mother_Name": "SUNITA",
+    "College_Name": "105 NBN SINHGAD TECHNICAL INSTITUTES CAMPUS",
+    "Perm_Reg_No": "72219132E",
+    "Branch_Course": "F.E.(2019 CREDIT PAT.) OCT-NOV 2024",
+    "Center": "105",
+    "Result_Date": "12 February 2025",
+    "Total_Credits": 44,
+    "SGPA": 7.38,
+    "Subjects": [
+      {
+        "Sem": 1,
+        "SubCode": "101007",
+        "Subject_Name": "ENVIRONMENTAL STUDIES-I",
+        "Credits": 0,
+        "Grade": "AC",
+        "Grade_Points": 0
+      },
+      {
+        "Sem": 1,
+        "SubCode": "102003",
+        "Subject_Name": "SYSTEMS IN MECH. ENGG.",
+        "Credits": 1,
+        "Grade": "C",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 1,
+        "SubCode": "102003",
+        "Subject_Name": "SYSTEMS IN MECH. ENGG.",
+        "Credits": 3,
+        "Grade": "A",
+        "Grade_Points": 27
+      },
+      {
+        "Sem": 1,
+        "SubCode": "104010",
+        "Subject_Name": "BASIC ELECTRONICS ENGG.",
+        "Credits": 3,
+        "Grade": "B",
+        "Grade_Points": 30
+      },
+      {
+        "Sem": 1,
+        "SubCode": "104010",
+        "Subject_Name": "BASIC ELECTRONICS ENGG.",
+        "Credits": 1,
+        "Grade": "C",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 1,
+        "SubCode": "107001",
+        "Subject_Name": "ENGINEERING MATHEMATICS I",
+        "Credits": 3,
+        "Grade": "C",
+        "Grade_Points": 21
+      },
+      {
+        "Sem": 1,
+        "SubCode": "107001",
+        "Subject_Name": "ENGINEERING MATHEMATICS I",
+        "Credits": 1,
+        "Grade": "B",
+        "Grade_Points": 8
+      },
+      {
+        "Sem": 1,
+        "SubCode": "107009",
+        "Subject_Name": "ENGINEERING CHEMISTRY",
+        "Credits": 4,
+        "Grade": "B",
+        "Grade_Points": 32
+      },
+      {
+        "Sem": 1,
+        "SubCode": "107009",
+        "Subject_Name": "ENGINEERING CHEMISTRY",
+        "Credits": 1,
+        "Grade": "C",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 1,
+        "SubCode": "110005",
+        "Subject_Name": "PROG. & PROBLEM SOLVING",
+        "Credits": 1,
+        "Grade": "C",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 1,
+        "SubCode": "110005",
+        "Subject_Name": "PROG. & PROBLEM SOLVING",
+        "Credits": 3,
+        "Grade": "B",
+        "Grade_Points": 24
+      },
+      {
+        "Sem": 1,
+        "SubCode": "111006",
+        "Subject_Name": "WORKSHOP",
+        "Credits": 1,
+        "Grade": "B",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 2,
+        "SubCode": "101011",
+        "Subject_Name": "ENGINEERING MECHANICS",
+        "Credits": 1,
+        "Grade": "D",
+        "Grade_Points": 6
+      },
+      {
+        "Sem": 2,
+        "SubCode": "101011",
+        "Subject_Name": "ENGINEERING MECHANICS",
+        "Credits": 3,
+        "Grade": "C",
+        "Grade_Points": 12
+      },
+      {
+        "Sem": 2,
+        "SubCode": "101014",
+        "Subject_Name": "ENVIRONMENTAL STUDIES-II",
+        "Credits": 0,
+        "Grade": "AC",
+        "Grade_Points": 0
+      },
+      {
+        "Sem": 2,
+        "SubCode": "102012",
+        "Subject_Name": "ENGINEERING GRAPHICS",
+        "Credits": 1,
+        "Grade": "C",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 2,
+        "SubCode": "102012",
+        "Subject_Name": "ENGINEERING GRAPHICS",
+        "Credits": 1,
+        "Grade": "B",
+        "Grade_Points": 5
+      },
+      {
+        "Sem": 2,
+        "SubCode": "103004",
+        "Subject_Name": "BASIC ELECTRICAL ENGG.",
+        "Credits": 1,
+        "Grade": "B",
+        "Grade_Points": 6
+      },
+      {
+        "Sem": 2,
+        "SubCode": "103004",
+        "Subject_Name": "BASIC ELECTRICAL ENGG.",
+        "Credits": 3,
+        "Grade": "B",
+        "Grade_Points": 12
+      },
+      {
+        "Sem": 2,
+        "SubCode": "107002",
+        "Subject_Name": "ENGINEERING PHYSICS",
+        "Credits": 4,
+        "Grade": "D",
+        "Grade_Points": 24
+      },
+      {
+        "Sem": 2,
+        "SubCode": "107002",
+        "Subject_Name": "ENGINEERING PHYSICS",
+        "Credits": 1,
+        "Grade": "D",
+        "Grade_Points": 6
+      },
+      {
+        "Sem": 2,
+        "SubCode": "107008",
+        "Subject_Name": "ENGINEERING MATHEMATICS II",
+        "Credits": 1,
+        "Grade": "C",
+        "Grade_Points": 7
+      },
+      {
+        "Sem": 2,
+        "SubCode": "107008",
+        "Subject_Name": "ENGINEERING MATHEMATICS II",
+        "Credits": 4,
+        "Grade": "B",
+        "Grade_Points": 20
+      },
+      {
+        "Sem": 2,
+        "SubCode": "107015",
+        "Subject_Name": "PHY.EDU.-EXER.& FIELD ACTI.",
+        "Credits": 0,
+        "Grade": "AC",
+        "Grade_Points": 0
+      },
+      {
+        "Sem": 2,
+        "SubCode": "110013",
+        "Subject_Name": "PROJECT BASED LEARNING",
+        "Credits": 2,
+        "Grade": "C",
+        "Grade_Points": 14
+      },
+      {
+        "Sem": 2,
+        "SubCode": "22295",
+        "Subject_Name": "DEMOCRACY, ELECTION AND GOV.",
+        "Credits": 0,
+        "Grade": "AC",
+        "Grade_Points": 0
+      }
+    ]
+  }
+}
